@@ -1,11 +1,11 @@
 {
    "Name": {
-      "english": ":Pranjal Anil Lokhande",
-      "marathi": " प्रांजल अनिल लोखंडे "
+      "english": "Pranjal Lokhande",
+      "marathi": " प्रांजल लोखंडे "
    },
    "JobProfile": {
-      "english": "Analyst Trainee Cognizant,Pune",
-      "marathi": "Analyst Trainee Cognizant,Pune"
+      "english": "Analyst Trainee",
+      "marathi": "Analyst Trainee"
    },
    "Facebook": "https://www.facebook.com/pranjal.lokhande.39",
    "Instagram": "https://www.instagram.com/pranjal7068?r=nametag",
@@ -13,8 +13,8 @@
    "CompanyLink":"https://www.cognizant.com/",
    "CompanyExperience":"",
    "CompanyName": {
-      "english": "Cognizant",
-      "marathi": "Cognizant"
+      "english": "Cognizant,Pune",
+      "marathi": "Cognizant,Pune"
    },
    "Hobby": {
       "english": "",
@@ -73,8 +73,8 @@
    },
    "Qualification": {
       "Education": {
-         "english": "M.Tech",
-         "marathi": "M.Tech"
+         "english": "M.Tech (ElectronicsandTele-communication)",
+         "marathi": "M.Tech (ElectronicsandTele-communication)"
       },
       "Job": {
          "english": "Analyst Trainee at Cognizant,Pune.",
@@ -142,9 +142,9 @@
       "GalleryPhoto":{
          "Photo1":"assets/G(1).jpg",
          "Photo2":"assets/G(2).jpg",
-         "Photo3":"assets/G(3).jpg",
+         "Photo3":"",
          "Photo4":"assets/G(4).jpg",
-         "Photo5":"assets/G(5).jpg"
+         "Photo5":"assets/G(3).jpg"
       }
    }
 }
