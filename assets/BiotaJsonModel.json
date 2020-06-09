@@ -4,14 +4,14 @@
       "marathi": " प्रांजल लोखंडे "
    },
    "JobProfile": {
-      "english": "Analyst Trainee",
-      "marathi": "Analyst Trainee"
+      "english": "System Engineer",
+      "marathi": "System Engineer"
    },
    "Facebook": "https://www.facebook.com/pranjal.lokhande.39",
    "Instagram": "https://www.instagram.com/pranjal7068?r=nametag",
    "Email": "mailto:pranjallokhande1@gmail.com",
-   "CompanyLink":"https://www.cognizant.com/",
-   "CompanyExperience":"",
+   "CompanyLink": "https://www.cognizant.com/",
+   "CompanyExperience": "",
    "CompanyName": {
       "english": "Cognizant,Pune",
       "marathi": "Cognizant,Pune"
@@ -21,18 +21,17 @@
       "marathi": ""
    },
    "PersonalInformation": {
-     
       "FullName": {
          "english": "Pranjal Anil Lokhande",
-         "marathi": "प्रांजल अनिल लोखंडे"
+         "marathi": " प्रांजल अनिल लोखंडे "
       },
       "DateOfBirth": {
          "english": "30/09/1992",
          "marathi": "३०/ ०९ /१९९२"
       },
       "BirthPlace": {
-         "english": "",
-         "marathi": ""
+         "english": "Vaijapur",
+         "marathi": "वैजापूर"
       },
       "BirthTime": {
          "english": "7:00AM",
@@ -51,6 +50,14 @@
          "marathi": ""
       },
       "Gotra": {
+         "english": "Kashyap",
+         "marathi": "कश्यप"
+      },
+      "Gan": {
+         "english": "",
+         "marathi": ""
+      },
+      "Devak": {
          "english": "",
          "marathi": ""
       },
@@ -67,18 +74,22 @@
          "marathi": "टोलबाई "
       },
       "Caste": {
-         "english": "TilwanTeli",
+         "english": "Tilwan Teli",
          "marathi": "तिळवण तेली"
       }
    },
    "Qualification": {
       "Education": {
-         "english": "M.Tech (Electronics and Tele-communication)",
-         "marathi": "M.Tech (Electronics and Tele-communication)"
+         "english": "BE(Electronics and Tele-communication) , M.Tech (Electronics and Tele-communication)",
+         "marathi": "BE(Electronics and Tele-communication) , M.Tech (Electronics and Tele-communication)"
       },
       "Job": {
          "english": "Analyst Trainee at Cognizant,Pune.",
          "marathi": "Analyst Trainee at Cognizant,Pune"
+      },
+      "Salary": {
+          "english": "3 Lac Per Annum",
+          "marathi": "3 लाख प्रति वर्ष"
       }
    },
    "FamilyInformation": {
@@ -111,8 +122,8 @@
          "marathi": ""
       },
       "Mama": {
-         "english": "",
-         "marathi": ""
+         "english": "Prashant Waghchaure (Vaijapur)",
+         "marathi": "प्रशांत वाघचौरे (वैजापूर)"
       },
       "Aatya": {
          "english": "",
@@ -137,14 +148,14 @@
          "marathi": " ९४२३३९४३६५ / ७७५५९७४६६५ / ८९९९०४८९५६ "
       }
    },
-   "Photos":{
-      "ProfilePhotoName":"assets/Profile.jpg",
-      "GalleryPhoto":{
-         "Photo1":"assets/G(1).jpg",
-         "Photo2":"assets/G(2).jpg",
-         "Photo3":"",
-         "Photo4":"assets/G(4).jpg",
-         "Photo5":"assets/G(3).jpg"
+   "Photos": {
+      "ProfilePhotoName": "assets/Profile.jpg",
+      "GalleryPhoto": {
+         "Photo1": "assets/G(1).jpg",
+         "Photo2": "assets/G(2).jpg",
+         "Photo3": "",
+         "Photo4": "assets/G(4).jpg",
+         "Photo5": "assets/G(3).jpg"
       }
    }
 }
